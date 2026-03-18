@@ -31,7 +31,7 @@
 ## 2022
 
 - [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/abs/2205.14135)
-
+- [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155): How to get model aligned (RLHF main paper).
 
 ## 2023
 
@@ -58,7 +58,7 @@
 - [Deepseek R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
 - [2023: Qween technical report](https://arxiv.org/pdf/2309.16609)
 - [Reinforcement Learning from Human Feedback](https://rlhfbook.com/book.pdf)
-- [2019: BERT](https://arxiv.org/pdf/1810.04805)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
 - [Language understanding, openai](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 - [Spark of AI, openai](https://arxiv.org/abs/2303.12712)
 - [Deepseek sparse attention](https://arxiv.org/abs/2512.02556) 85 cit in 2 months
